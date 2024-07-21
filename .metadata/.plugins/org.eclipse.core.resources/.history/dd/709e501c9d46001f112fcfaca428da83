@@ -1,0 +1,12 @@
+package com.projectk.simpleApp.Services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.projectk.simpleApp.Respository.SimpleEntryRepo;
+
+public class SimpleEntryService {
+
+	@Autowired
+	private SimpleEntryRepo simpleEntryRepo;
+	
+}

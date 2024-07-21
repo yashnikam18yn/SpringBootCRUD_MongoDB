@@ -1,0 +1,5 @@
+package com.projectk.simpleApp.entity;
+
+public class SimpleEntry {
+
+}
